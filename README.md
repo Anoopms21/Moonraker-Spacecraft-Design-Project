@@ -18,7 +18,7 @@ The design underwent **4 major configuration iterations** before reaching the fi
 
 ---
 
-# My Role — Structures & Mechanisms (SAM) Lead
+# My Role - Structures & Mechanisms (SAM) Lead
 
 ### Primary Responsibilities
 - Led spacecraft structural architecture development
