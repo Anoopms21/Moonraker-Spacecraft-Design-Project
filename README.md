@@ -141,10 +141,8 @@ to ensure:
 # Repository Contents
 This repository includes:
 - CAD renders
-- Structural layouts
 - Design documentation
 - PDR presentation slides
-- Engineering calculations
 - Spacecraft renders
 - 3D printed model images
 
