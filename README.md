@@ -1,155 +1,183 @@
-# Moonraker Spacecraft Design Project 
+# Moonraker | Spacecraft Structural Design & Systems Integration
 
-## Overview
-This project was completed as part of the *ASEN 5148: Spacecraft Design* course at the University of Colorado Boulder.  
-I served as the **Structures & Mechanisms (SAM) Lead** in a **14-member multidisciplinary spacecraft mission team**, collaborating with subsystem leads, a systems lead, and a project manager throughout the complete spacecraft design lifecycle.
+**Structures & Mechanisms (SAM) Lead | University of Colorado Boulder**  
+**January – May 2026 | ASEN 5148: Spacecraft Design**
 
-The mission focused on designing a fully integrated spacecraft system compliant with mission objectives, subsystem requirements, and launch vehicle constraints.  
-The design underwent **4 major configuration iterations** before reaching the final launch-compliant architecture.
+🏆 **Awarded Best Overall Mission Design**
+
+<p align="center">
+  <a href="images/moonraker-final-render.png">
+    <img src="images/moonraker-final-render.png"
+         alt="Moonraker Final Configuration"
+         width="400">
+  </a>
+</p>
+
+<p align="center">
+  <em>Moonraker – Final Spacecraft Configuration (Click to enlarge)</em>
+</p>
+
+
+
+## Project Overview
+
+Moonraker is a conceptual lunar orbiter spacecraft developed by a 14-member multidisciplinary engineering team at the University of Colorado Boulder.
+
+As the **Structures & Mechanisms (SAM) Lead**, I led structural architecture development, mechanical design, subsystem integration, and preliminary structural validation through four major design iterations.
+
+## Engineering Highlights
+
+| Parameter | Result |
+|---|---|
+| Mission Design Award | Best Overall Mission Design |
+| Spacecraft Mass | 1,760 kg |
+| Structural & Mechanism Components | 100+ |
+| Design Iterations | 4 |
+| Axial Launch Load | 146.8 kN |
+| Lateral Launch Load | 51.8 kN |
+| Limit Margin of Safety | 2.40 |
+| Ultimate Margin of Safety | 1.71 |
+| Launch Vehicle | Falcon 9 |
 
 ---
 
-# Mission Objectives
-- Develop a complete spacecraft conceptual design
-- Achieve launch vehicle compatibility
-- Minimize structural mass while maintaining stiffness and strength
-- Integrate all spacecraft subsystems within packaging constraints
-- Ensure structural survivability under launch loading conditions
+## My Contributions
+
+### Structural Design & Architecture
+
+- Developed a **Falcon 9-compatible, 1,760 kg spacecraft architecture** by integrating 100+ structural and mechanism components while balancing mass, strength, CG constraints, and manufacturability.
+- Achieved launch vehicle compatibility through **4 major design iterations** by refining structural layouts, subsystem packaging, and mechanical interfaces.
+- Developed a hybrid Ti-Al structural architecture incorporating longerons, honeycomb panels, and subsystem mounting interfaces.
+
+![Structural Architecture](images/structural-architecture.png)
+
+### Structural Analysis & Validation
+
+- Achieved **2.40 limit and 1.71 ultimate margins of safety** by performing Euler buckling calculations on Al 7075-T6 longerons.
+- Evaluated structural survivability under **146.8 kN axial and 51.8 kN lateral loads** through preliminary structural sizing and load path calculations.
+- Modeled load-bearing structural members in CATIA, evaluating stiffness, strength, and mass tradeoffs.
+
+![Structural Analysis](images/structural-analysis.png)
+
+### CAD & Mechanical Design
+
+- Developed integrated spacecraft assemblies using **SolidWorks and CATIA V5**.
+- Designed payload decks, subsystem mounting interfaces, and deployable mechanism layouts.
+- Improved assembly feasibility through modular layouts, bolted interfaces, and manufacturing considerations.
+
+![Spacecraft CAD Assembly](images/spacecraft-cad-assembly.png)
+
+### Systems Integration
+
+- Resolved structural interfaces and packaging constraints by coordinating with GNC, EPS, Thermal, Communications, Payload, Propulsion, and CDH teams.
+- Advanced the spacecraft from system requirements through final layout verification.
+- Managed subsystem placement, mass distribution, thermal clearances, and deployable mechanism integration.
+
+![Subsystem Integration](images/subsystem-integration.png)
 
 ---
 
-# My Role - Structures & Mechanisms (SAM) Lead
-
-### Primary Responsibilities
-- Led spacecraft structural architecture development
-- Managed subsystem interface integration
-- Performed preliminary structural sizing calculations
-- Designed deployable and mounting mechanisms
-- Coordinated subsystem packaging and mass distribution
-- Supported launch load and stiffness compliance studies
-- Developed CAD models, layouts, and design documentation
-- Presented subsystem design during reviews
-
----
-
-# Spacecraft Configuration
+## Spacecraft Specifications
 
 | Parameter | Value |
 |---|---|
 | Team Size | 14 Members |
 | Design Iterations | 4 Major Iterations |
-| Spacecraft Height | ~2.0 m |
-| Approx. Bus Envelope | ~1.5 m × 1.5 m × 2.0 m |
+| Spacecraft Height | 2.0 m |
+| Approx. Bus Envelope | 1.5 m × 1.5 m × 2.0 m |
 | Fairing Compatibility | Falcon 9 |
 | Primary Structure Material | Ti-6Al-4V |
 | Secondary Structure Material | Aluminum 7075 |
-| Honeycomb Panel Thickness | ~19.8 mm |
+| Honeycomb Panel Thickness | 19.8 mm |
 | Face Sheet Thickness | 0.8 mm |
-| Longeron Length | ~2050 mm |
+| Longeron Length | 2050 mm |
 | Longeron Configuration | 8 Structural Members |
 | Structural Analysis Load Cases | Axial + Lateral |
 | 3D Printed Scale Model | 1:20 Scale |
 
----
-
-# Engineering Work Completed
-
-## Structural Design
-- Designed spacecraft primary and secondary structural members
-- Developed load-bearing longeron configuration using Aluminum 7075
-- Evaluated stiffness-to-weight tradeoffs for structural optimization
-- Integrated payload deck and subsystem mounting architecture
-- Worked on bolted joint and interface design strategies
-
-## CAD & Packaging
-- Built spacecraft assembly layouts in SolidWorks
-- Managed subsystem packaging and internal volume allocation
-- Coordinated subsystem interface placement with all teams
-- Optimized structural layout for manufacturability and accessibility
-
-## Structural Analysis
-- Performed preliminary launch load calculations
-- Evaluated axial and lateral loading conditions
-- Conducted structural sizing and load path studies
-- Supported structural compliance verification for Falcon 9 constraints
-
-## Systems Integration
-Worked closely with:
-- GNC
-- EPS
-- Thermal
-- Communications
-- Payload
-- Propulsion
-- CDH teams
-
-to ensure:
-- Interface compatibility
-- Proper mass distribution
-- Thermal clearances
-- Structural support
-- Deployable mechanism integration
+![Spacecraft Dimensions](images/spacecraft-dimensions.png)
 
 ---
 
-# Key Features
-- Falcon 9 launch vehicle compliant configuration
-- Lightweight hybrid Ti-Al structural architecture
-- Honeycomb panel-based spacecraft body
+## Design Features
+
+- Hybrid titanium-aluminum structural architecture
+- Lightweight honeycomb panel construction
+- Eight load-bearing structural longerons
+- Modular subsystem mounting architecture
 - Deployable solar array integration
-- Modular subsystem arrangement
-- Structural load path optimization
-- Manufacturable assembly-focused design
+- Optimized structural load paths
+- Falcon 9 fairing-compatible configuration
+
+![Exploded Assembly](images/exploded-assembly.png)
 
 ---
 
-# Tools & Software Used
+## Design Development
 
-### CAD & Design
-- SolidWorks
-- GD&T
-- Engineering Drawings
+The spacecraft underwent **four major configuration iterations** to resolve structural, packaging, and launch vehicle constraints.
 
-### Engineering Methods
-- Structural Sizing
-- Systems Integration
-- Mass Budgeting
-- Design Iteration
-- Aerospace Structures
+Key development activities included:
 
----
+- Structural architecture development
+- Subsystem packaging and interface refinement
+- Preliminary structural sizing and validation
+- Final configuration and launch compatibility verification
 
-# Major Challenges Solved
-- Achieving subsystem packaging within fairing constraints
-- Reducing structural mass while maintaining stiffness
-- Coordinating interfaces across multiple subsystem teams
-- Iterating structural layouts for launch compliance
-- Managing subsystem integration within a limited design volume
+![Design Iterations](images/design-iterations.png)
 
 ---
 
-# Results & Outcomes
-- Successfully completed full spacecraft conceptual design cycle
-- Achieved launch vehicle compatibility after 4 design iterations
-- Delivered complete SAM subsystem design documentation
-- Presented subsystem architecture during PDR and final reviews
-- Designed and fabricated a 1:20 scale spacecraft model for design visualization
-- Awarded **Best Overall Mission Design** among competing mission teams
+## Physical Prototype
+
+Designed and fabricated a **1:20 scale 3D-printed spacecraft model** to visualize the final structural architecture, subsystem arrangement, and mission configuration.
+
+<p align="center">
+  <a href="3D printed model images/Printed assembly.png">
+    <img src="3D printed model images/Printed assembly.png"
+         alt="3D Printed Model"
+         width="400">
+  </a>
+</p>
+
+<p align="center">
+  <em>Moonraker – 3D Printed Model (Click to enlarge)</em>
+</p>
 
 ---
 
-# Repository Contents
-This repository includes:
-- CAD renders
-- Design documentation
-- PDR presentation slides
-- Spacecraft renders
-- 3D printed model images
+## Tools & Engineering Methods
+
+| Category | Tools & Methods |
+|---|---|
+| CAD & Design | SolidWorks, CATIA V5 |
+| Structural Analysis | Euler Buckling, Hand Calculations, Structural Sizing |
+| Mechanical Design | GD&T, Engineering Drawings, Assembly Design |
+| Systems Engineering | Interface Management, Mass Budgeting |
+| Manufacturing | DFM/DFA, 3D Printing, Material Selection |
+| Validation | Load Path Analysis, Margins of Safety, Design Reviews |
 
 ---
 
-# Contact
-Feel free to connect for collaboration, engineering discussions, or opportunities.
+## Results & Recognition
 
+### 🏆 Best Overall Mission Design
+
+Moonraker was selected as the **Best Overall Mission Design** among competing spacecraft mission teams in the ASEN 5148 Spacecraft Design course at the University of Colorado Boulder.
+
+### Key Outcomes
+
+- Delivered a fully integrated Falcon 9-compatible spacecraft design.
+- Achieved positive structural margins of safety under launch loads.
+- Completed four major configuration iterations.
+- Delivered complete Structures & Mechanisms subsystem documentation.
+- Presented structural architecture during PDR and final design reviews.
+- Fabricated a 1:20 scale spacecraft model.
+
+![Moonraker Team and Award](images/mission-award-team.png)
+
+---
+
+## Contact
 - LinkedIn: www.linkedin.com/in/anoopsubramanya
-- Portfolio: https://anoopsubramanya.framer.website/
+- Email: anoopms2001@gmail.com
