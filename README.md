@@ -9,7 +9,7 @@
   <a href="CAD renders/deployed.jpg">
     <img src="CAD renders/deployed.jpg"
          alt="Moonraker Final Configuration"
-         width="400">
+         width="600">
   </a>
 </p>
 
