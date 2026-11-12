@@ -115,6 +115,100 @@ As the **Structures & Mechanisms (SAM) Lead**, I led structural architecture dev
   <em>Moonraker – Final Spacecraft Configuration (Click to enlarge)</em>
 </p>
 
+### Design Gallery
+
+<p align="center">
+  A collection of structural components, mechanical assemblies, 
+  and spacecraft configurations developed during the Moonraker project.
+</p>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="images/primary-structure.png">
+        <img src="images/primary-structure.png" width="350">
+      </a>
+      <br>
+      <b>Primary Structural Architecture</b>
+    </td>
+    <td align="center" width="50%">
+      <a href="images/secondary-structure.png">
+        <img src="images/secondary-structure.png" width="350">
+      </a>
+      <br>
+      <b>Secondary Structural Architecture</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="images/longeron-design.png">
+        <img src="images/longeron-design.png" width="350">
+      </a>
+      <br>
+      <b>Longeron Design</b>
+    </td>
+    <td align="center">
+      <a href="images/honeycomb-panel.png">
+        <img src="images/honeycomb-panel.png" width="350">
+      </a>
+      <br>
+      <b>Honeycomb Panel Design</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="images/payload-deck.png">
+        <img src="images/payload-deck.png" width="350">
+      </a>
+      <br>
+      <b>Payload Deck & Mounting Interfaces</b>
+    </td>
+    <td align="center">
+      <a href="images/solar-array-mechanism.png">
+        <img src="images/solar-array-mechanism.png" width="350">
+      </a>
+      <br>
+      <b>Solar Array Integration</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="images/subsystem-packaging.png">
+        <img src="images/subsystem-packaging.png" width="350">
+      </a>
+      <br>
+      <b>Subsystem Packaging</b>
+    </td>
+    <td align="center">
+      <a href="images/exploded-assembly.png">
+        <img src="images/exploded-assembly.png" width="350">
+      </a>
+      <br>
+      <b>Exploded Spacecraft Assembly</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="images/final-assembly.png">
+        <img src="images/final-assembly.png" width="350">
+      </a>
+      <br>
+      <b>Final Spacecraft Assembly</b>
+    </td>
+    <td align="center">
+      <a href="images/3d-printed-model.png">
+        <img src="images/3d-printed-model.png" width="350">
+      </a>
+      <br>
+      <b>1:20 Scale Physical Prototype</b>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <em>Click any image to view the full-resolution design.</em>
+</p>
+
 ---
 
 ## Spacecraft Specifications
