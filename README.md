@@ -6,8 +6,8 @@
 🏆 **Awarded Best Overall Mission Design**
 
 <p align="center">
-  <a href="images/moonraker-final-render.png">
-    <img src="images/moonraker-final-render.png"
+  <a href="CAD renders/deployed.jpg">
+    <img src="CAD renders/deployed.jpg"
          alt="Moonraker Final Configuration"
          width="400">
   </a>
@@ -49,7 +49,17 @@ As the **Structures & Mechanisms (SAM) Lead**, I led structural architecture dev
 - Achieved launch vehicle compatibility through **4 major design iterations** by refining structural layouts, subsystem packaging, and mechanical interfaces.
 - Developed a hybrid Ti-Al structural architecture incorporating longerons, honeycomb panels, and subsystem mounting interfaces.
 
-![Structural Architecture](images/structural-architecture.png)
+<p align="center">
+  <a href="images/moonraker-final-render.png">
+    <img src="images/moonraker-final-render.png"
+         alt="Moonraker Final Configuration"
+         width="400">
+  </a>
+</p>
+
+<p align="center">
+  <em>Moonraker – Final Spacecraft Configuration (Click to enlarge)</em>
+</p>
 
 ### Structural Analysis & Validation
 
@@ -57,7 +67,17 @@ As the **Structures & Mechanisms (SAM) Lead**, I led structural architecture dev
 - Evaluated structural survivability under **146.8 kN axial and 51.8 kN lateral loads** through preliminary structural sizing and load path calculations.
 - Modeled load-bearing structural members in CATIA, evaluating stiffness, strength, and mass tradeoffs.
 
-![Structural Analysis](images/structural-analysis.png)
+<p align="center">
+  <a href="CAD renders/Inner.jpg">
+    <img src="CAD renders/Inner.jpg"
+         alt="Moonraker Inner Structure"
+         width="400">
+  </a>
+</p>
+
+<p align="center">
+  <em>Moonraker – Inner Structure (Click to enlarge)</em>
+</p>
 
 ### CAD & Mechanical Design
 
@@ -65,7 +85,17 @@ As the **Structures & Mechanisms (SAM) Lead**, I led structural architecture dev
 - Designed payload decks, subsystem mounting interfaces, and deployable mechanism layouts.
 - Improved assembly feasibility through modular layouts, bolted interfaces, and manufacturing considerations.
 
-![Spacecraft CAD Assembly](images/spacecraft-cad-assembly.png)
+<p align="center">
+  <a href="images/moonraker-final-render.png">
+    <img src="images/moonraker-final-render.png"
+         alt="Moonraker Final Configuration"
+         width="400">
+  </a>
+</p>
+
+<p align="center">
+  <em>Moonraker – Final Spacecraft Configuration (Click to enlarge)</em>
+</p>
 
 ### Systems Integration
 
@@ -73,7 +103,17 @@ As the **Structures & Mechanisms (SAM) Lead**, I led structural architecture dev
 - Advanced the spacecraft from system requirements through final layout verification.
 - Managed subsystem placement, mass distribution, thermal clearances, and deployable mechanism integration.
 
-![Subsystem Integration](images/subsystem-integration.png)
+<p align="center">
+  <a href="images/moonraker-final-render.png">
+    <img src="images/moonraker-final-render.png"
+         alt="Moonraker Final Configuration"
+         width="400">
+  </a>
+</p>
+
+<p align="center">
+  <em>Moonraker – Final Spacecraft Configuration (Click to enlarge)</em>
+</p>
 
 ---
 
