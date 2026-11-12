@@ -50,26 +50,26 @@ As the **Structures & Mechanisms (SAM) Lead**, I led structural architecture dev
 - Developed a hybrid Ti-Al structural architecture incorporating longerons, honeycomb panels, and subsystem mounting interfaces.
 
 <p align="center">
-  <a href="images/moonraker-final-render.png">
-    <img src="images/moonraker-final-render.png"
+  <a href="Images/Structure.png">
+    <img src="Images/Structure.png"
          alt="Moonraker Final Configuration"
          width="400">
   </a>
 </p>
 
 <p align="center">
-  <em>Moonraker – Final Spacecraft Configuration (Click to enlarge)</em>
+  <em>Moonraker – Structural Design & Architecture (Click to enlarge)</em>
 </p>
 
 ### Structural Analysis & Validation
 
 - Achieved **2.40 limit and 1.71 ultimate margins of safety** by performing Euler buckling calculations on Al 7075-T6 longerons.
 - Evaluated structural survivability under **146.8 kN axial and 51.8 kN lateral loads** through preliminary structural sizing and load path calculations.
-- Modeled load-bearing structural members in CATIA, evaluating stiffness, strength, and mass tradeoffs.
+- Modeled load-bearing structural members in CATIA, evaluating stiffness, strength, and mass trade-offs.
 
 <p align="center">
-  <a href="CAD renders/Inner.jpg">
-    <img src="CAD renders/Inner.jpg"
+  <a href="CAD renders/prop 1.jpg">
+    <img src="CAD renders/prop 1.jpg"
          alt="Moonraker Inner Structure"
          width="400">
   </a>
@@ -86,15 +86,15 @@ As the **Structures & Mechanisms (SAM) Lead**, I led structural architecture dev
 - Improved assembly feasibility through modular layouts, bolted interfaces, and manufacturing considerations.
 
 <p align="center">
-  <a href="images/moonraker-final-render.png">
-    <img src="images/moonraker-final-render.png"
+  <a href="Images/Transparent.png">
+    <img src="Images/Transparent.png"
          alt="Moonraker Final Configuration"
          width="400">
   </a>
 </p>
 
 <p align="center">
-  <em>Moonraker – Final Spacecraft Configuration (Click to enlarge)</em>
+  <em>Moonraker – CAD & Mechanical Design (Click to enlarge)</em>
 </p>
 
 ### Systems Integration
@@ -104,15 +104,15 @@ As the **Structures & Mechanisms (SAM) Lead**, I led structural architecture dev
 - Managed subsystem placement, mass distribution, thermal clearances, and deployable mechanism integration.
 
 <p align="center">
-  <a href="images/moonraker-final-render.png">
-    <img src="images/moonraker-final-render.png"
+  <a href="Images/Non render Full SC.png">
+    <img src="Images/Non render Full SC.png"
          alt="Moonraker Final Configuration"
          width="400">
   </a>
 </p>
 
 <p align="center">
-  <em>Moonraker – Final Spacecraft Configuration (Click to enlarge)</em>
+  <em>Moonraker – Systems Integration (Click to enlarge)</em>
 </p>
 
 ### Design Gallery
@@ -125,15 +125,15 @@ As the **Structures & Mechanisms (SAM) Lead**, I led structural architecture dev
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="images/primary-structure.png">
-        <img src="images/primary-structure.png" width="350">
+      <a href="CAD renders/Inner.jpg">
+        <img src="CAD renders/Inner.jpg" width="350">
       </a>
       <br>
       <b>Primary Structural Architecture</b>
     </td>
     <td align="center" width="50%">
-      <a href="images/secondary-structure.png">
-        <img src="images/secondary-structure.png" width="350">
+      <a href="Images/Transparent2.png">
+        <img src="Images/Transparent2.png" width="350">
       </a>
       <br>
       <b>Secondary Structural Architecture</b>
@@ -141,15 +141,15 @@ As the **Structures & Mechanisms (SAM) Lead**, I led structural architecture dev
   </tr>
   <tr>
     <td align="center">
-      <a href="images/longeron-design.png">
-        <img src="images/longeron-design.png" width="350">
+      <a href="Images/Structure.png">
+        <img src="Images/Structure.png" width="350">
       </a>
       <br>
       <b>Longeron Design</b>
     </td>
     <td align="center">
-      <a href="images/honeycomb-panel.png">
-        <img src="images/honeycomb-panel.png" width="350">
+      <a href="Images/Honey Comb.png">
+        <img src="Images/Honey Comb.png" width="350">
       </a>
       <br>
       <b>Honeycomb Panel Design</b>
@@ -157,15 +157,15 @@ As the **Structures & Mechanisms (SAM) Lead**, I led structural architecture dev
   </tr>
   <tr>
     <td align="center">
-      <a href="images/payload-deck.png">
-        <img src="images/payload-deck.png" width="350">
+      <a href="CAD renders/deck1.jpg">
+        <img src="CAD renders/deck1.jpg" width="350">
       </a>
       <br>
       <b>Payload Deck & Mounting Interfaces</b>
     </td>
     <td align="center">
-      <a href="images/solar-array-mechanism.png">
-        <img src="images/solar-array-mechanism.png" width="350">
+      <a href="CAD renders/Solar array.jpg">
+        <img src="CAD renders/Solar array.jpg" width="350">
       </a>
       <br>
       <b>Solar Array Integration</b>
@@ -173,15 +173,15 @@ As the **Structures & Mechanisms (SAM) Lead**, I led structural architecture dev
   </tr>
   <tr>
     <td align="center">
-      <a href="images/subsystem-packaging.png">
-        <img src="images/subsystem-packaging.png" width="350">
+      <a href="CAD renders/avionics box.jpg">
+        <img src="CAD renders/avionics box.jpg" width="350">
       </a>
       <br>
       <b>Subsystem Packaging</b>
     </td>
     <td align="center">
-      <a href="images/exploded-assembly.png">
-        <img src="images/exploded-assembly.png" width="350">
+      <a href="CAD renders/Inner.jpg">
+        <img src="CAD renders/Inner.jpg" width="350">
       </a>
       <br>
       <b>Exploded Spacecraft Assembly</b>
@@ -189,15 +189,15 @@ As the **Structures & Mechanisms (SAM) Lead**, I led structural architecture dev
   </tr>
   <tr>
     <td align="center">
-      <a href="images/final-assembly.png">
-        <img src="images/final-assembly.png" width="350">
+      <a href="Images/stowed.jpg">
+        <img src="Images/stowed.jpg" width="350">
       </a>
       <br>
       <b>Final Spacecraft Assembly</b>
     </td>
     <td align="center">
-      <a href="images/3d-printed-model.png">
-        <img src="images/3d-printed-model.png" width="350">
+      <a href="Images/3d Printed.jpeg">
+        <img src="Images/3d Printed.jpeg" width="350">
       </a>
       <br>
       <b>1:20 Scale Physical Prototype</b>
@@ -229,7 +229,6 @@ As the **Structures & Mechanisms (SAM) Lead**, I led structural architecture dev
 | Structural Analysis Load Cases | Axial + Lateral |
 | 3D Printed Scale Model | 1:20 Scale |
 
-![Spacecraft Dimensions](images/spacecraft-dimensions.png)
 
 ---
 
@@ -243,7 +242,6 @@ As the **Structures & Mechanisms (SAM) Lead**, I led structural architecture dev
 - Optimized structural load paths
 - Falcon 9 fairing-compatible configuration
 
-![Exploded Assembly](images/exploded-assembly.png)
 
 ---
 
@@ -258,17 +256,26 @@ Key development activities included:
 - Preliminary structural sizing and validation
 - Final configuration and launch compatibility verification
 
-![Design Iterations](images/design-iterations.png)
+<p align="center">
+  <a href="Images/Cycle Change.png">
+    <img src="Images/Cycle Change.png"
+         alt="3D Printed Model"
+         width="400">
+  </a>
+</p>
 
----
+<p align="center">
+  <em>Moonraker – Design Development (Click to enlarge)</em>
+</p>
+
 
 ## Physical Prototype
 
 Designed and fabricated a **1:20 scale 3D-printed spacecraft model** to visualize the final structural architecture, subsystem arrangement, and mission configuration.
 
 <p align="center">
-  <a href="3D printed model images/Printed assembly.png">
-    <img src="3D printed model images/Printed assembly.png"
+  <a href="Images/3d Printed.jpeg">
+    <img src="Images/3d Printed.jpeg"
          alt="3D Printed Model"
          width="400">
   </a>
