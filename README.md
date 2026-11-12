@@ -214,7 +214,17 @@ Moonraker was selected as the **Best Overall Mission Design** among competing sp
 - Presented structural architecture during PDR and final design reviews.
 - Fabricated a 1:20 scale spacecraft model.
 
-![Moonraker Team and Award](images/mission-award-team.png)
+<p align="center">
+  <a href="Team Photo/Team photo.png">
+    <img src="Team Photo/Team photo.png"
+         alt="Team Photo"
+         width="400">
+  </a>
+</p>
+
+<p align="center">
+  <em>Moonraker – Team Photo (Click to enlarge)</em>
+</p>
 
 ---
 
